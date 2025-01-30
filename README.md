@@ -41,6 +41,9 @@ Labs will be simulations of single qubit operations such as Rabi and Ramsey puls
 * FYI: Colab provides hardware acceleration with GPUs and TPUs if you go to 'Runtime>Change Runtime type'
 
 
+![image](https://github.com/user-attachments/assets/9fa08c27-c172-47f5-8e45-78d4e00ac5f1)
+
+
 # Outline of the course:
 
 ### Quantum Optics: 
