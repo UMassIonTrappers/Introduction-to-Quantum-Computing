@@ -4,8 +4,11 @@
 
 Introduction to quantum computing starts with a basis in quantum optics using the Mach Zehnder Interferometer as a foundation. We then survey various qubit technology modalities such as trapped ions, photonics and Transmons as well as sources of decoherence for each.  In weekly Python labs students program simulations of single qubit operations such as Rabi and Ramsey pulse sequences as well as two qubit manipulations for Bell state generation to construct quantum circuits from fundamental quantum mechanical interactions. In the 2nd half of the semester these labs culminate in programming simulations of quantum algorithms by Grover and Shor using quantum computing Python libraries such as Qiskit and QuTiP and executing them on real quantum computers.
 
+## Discord: https://discord.gg/zwXMNDdDN5 
+
 # Labs
-Labs will be simulations of single qubit operations such as Rabi and Ramsey pulse sequences and then entanglement of two qubits and bell state generation. This will allow us to construct quantum circuits from fundamental quantum mechanical interactions, effectively seeing into the ‘black box’ of quantum circuits. Finally, in the second half of the course we will program simulations of quantum algorithms by Grover and Shor using the Qiskit and QuTIP python libraries.
+Labs will start with simulations in QuTiP of single qubit operations such as Rabi and Ramsey pulse sequences and then entanglement of two qubits and bell state generation. This will allow us to construct quantum circuits from fundamental quantum mechanical interactions, effectively seeing into the ‘black box’ of quantum circuits. 
+In the second half of the course we will program simulations of quantum algorithms by Grover and Shor using the Qiskit and QuTIP python libraries.
 
 # Lecture recordings:
 * [Lecture 1 - introduction](https://echo360.org/media/429f82d9-5ae3-47b0-b9b0-78e48ced89a8/public)
