@@ -12,11 +12,11 @@ Labs will be simulations of single qubit operations such as Rabi and Ramsey puls
 ### Quantum Optics:
   * Ivan H. Deutsch’s Notes - http://info.phys.unm.edu/~ideutsch/Classes/Phys566F21/
 
+### Quantum Optics and Atomic Physics:
   * Daniel Steck’s Notes - https://atomoptics.uoregon.edu/~dsteck/teaching/quantum-optics/
 
 ### Quantum Computation:
-  * Thomas Wong’s Textbook: https://www.amazon.com/Introduction-Classical-Quantum-Computing-Thomas-dp-B09QP2MYYM/dp/B09QP2MYYM/
-  * http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e4p.pdf
+* Thomas Wong’s Textbook: [order hard copy (~15$)](https://www.amazon.com/Introduction-Classical-Quantum-Computing-Thomas-dp-B09QP2MYYM/dp/B09QP2MYYM/) [download pdf](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e4p.pdf)
 
 * IBM’s Qiskit Textbook - https://qiskit.org/textbook-beta
 
