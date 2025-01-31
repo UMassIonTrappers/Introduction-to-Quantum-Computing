@@ -7,6 +7,11 @@ Introduction to quantum computing starts with a basis in quantum optics using th
 # Labs
 Labs will be simulations of single qubit operations such as Rabi and Ramsey pulse sequences and then entanglement of two qubits and bell state generation. This will allow us to construct quantum circuits from fundamental quantum mechanical interactions, effectively seeing into the ‘black box’ of quantum circuits. Finally, in the second half of the course we will program simulations of quantum algorithms by Grover and Shor using the Qiskit and QuTIP python libraries.
 
+# Lecture recordings:
+* [Lecture 1 - introduction](https://echo360.org/media/429f82d9-5ae3-47b0-b9b0-78e48ced89a8/public)
+
+# Lecture Slides: 
+* [Lecture 01 - WW05 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lecture%2001%20-%20WW05%20-%20Introductions.pdf)
 
 ## Supporting Materials:
 ### Quantum Optics:
