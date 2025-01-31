@@ -1,6 +1,6 @@
 # Intro to Quantum Computing - ECE 550/650
 
-### Quantum Optics ->  Qubits -> Quantum Algorithms
+### Quantum Optics →  Qubits → Quantum Algorithms
 
 Introduction to quantum computing starts with a basis in quantum optics using the Mach Zehnder Interferometer as a foundation. We then survey various qubit technology modalities such as trapped ions, photonics and Transmons as well as sources of decoherence for each.  In weekly Python labs students program simulations of single qubit operations such as Rabi and Ramsey pulse sequences as well as two qubit manipulations for Bell state generation to construct quantum circuits from fundamental quantum mechanical interactions. In the 2nd half of the semester these labs culminate in programming simulations of quantum algorithms by Grover and Shor using quantum computing Python libraries such as Qiskit and QuTiP and executing them on real quantum computers.
 
