@@ -20,6 +20,10 @@ Labs will be simulations of single qubit operations such as Rabi and Ramsey puls
 
 * IBM’s Qiskit Textbook - https://qiskit.org/textbook-beta
 
+* Scott Aaronson - https://www.scottaaronson.com/qclec.pdf
+
+* John Preskill - http://theory.caltech.edu/~preskill/ph219/chap6_20_6A.pdf
+
 ### Mike & Ike:
   * Quantum Computation and Quantum Information , Authors: Michael A. Nielsen, Isaac L. Chuang
 
