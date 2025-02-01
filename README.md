@@ -1,29 +1,34 @@
 # Intro to Quantum Computing - ECE 550/650
 
+by Robert Niffenegger (rniffenegger@umass.edu)
+
 ### Quantum Optics →  Qubits → Quantum Algorithms
 
-Introduction to quantum computing starts with a basis in quantum optics using the Mach Zehnder Interferometer as a foundation. We then survey various qubit technology modalities such as trapped ions, photonics and Transmons as well as sources of decoherence for each.  In weekly Python labs students program simulations of single qubit operations such as Rabi and Ramsey pulse sequences as well as two qubit manipulations for Bell state generation to construct quantum circuits from fundamental quantum mechanical interactions. In the 2nd half of the semester these labs culminate in programming simulations of quantum algorithms by Grover and Shor using quantum computing Python libraries such as Qiskit and QuTiP and executing them on real quantum computers.
+Introduction to quantum computing starts with a basis in quantum optics using the Mach Zehnder Interferometer as a foundation. We then learn about atomic physics and quantum mechanics in the context of various qubit technology modalities such as trapped ions. In weekly Python labs students program simulations of single qubit operations such as Rabi and Ramsey pulse sequences as well as two qubit manipulations for Bell state generation to construct quantum circuits from fundamental quantum mechanical interactions. In the 2nd half of the semester these labs culminate in programming simulations of quantum algorithms by Grover and Shor using quantum computing Python libraries such as Qiskit and QuTiP and executing them on real quantum computers.
 
-## Discord: https://discord.gg/zwXMNDdDN5 
+#### Discord: https://discord.gg/zwXMNDdDN5 
 
-# Labs
+## Labs
 Labs will start with simulations in QuTiP of single qubit operations such as Rabi and Ramsey pulse sequences and then entanglement of two qubits and bell state generation. This will allow us to construct quantum circuits from fundamental quantum mechanical interactions, effectively seeing into the ‘black box’ of quantum circuits. 
 In the second half of the course we will program simulations of quantum algorithms by Grover and Shor using the Qiskit and QuTIP python libraries.
 
-# Lecture recordings:
+## Lecture Notes:
+* [Quantum-Computing-ECE-550.pdf](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
+
+## Lecture recordings:
 * [Lecture 1 - introduction](https://echo360.org/media/429f82d9-5ae3-47b0-b9b0-78e48ced89a8/public)
 
-# Lecture Slides: 
+## Lecture Slides: 
 * [Lecture 01 - WW05 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lecture%2001%20-%20WW05%20-%20Introductions.pdf)
 
-## Supporting Materials:
-### Quantum Optics:
+### Supporting Materials:
+#### Quantum Optics:
   * Ivan H. Deutsch’s Notes - http://info.phys.unm.edu/~ideutsch/Classes/Phys566F21/
 
-### Quantum Optics and Atomic Physics:
+#### Quantum Optics and Atomic Physics:
   * Daniel Steck’s Notes - https://atomoptics.uoregon.edu/~dsteck/teaching/quantum-optics/
 
-### Quantum Computation:
+#### Quantum Computation:
 * Thomas Wong’s Textbook: [order hard copy (~15$)](https://www.amazon.com/Introduction-Classical-Quantum-Computing-Thomas-dp-B09QP2MYYM/dp/B09QP2MYYM/) [download pdf](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e4p.pdf)
 
 * IBM’s Qiskit Textbook - https://qiskit.org/textbook-beta
@@ -32,7 +37,7 @@ In the second half of the course we will program simulations of quantum algorith
 
 * John Preskill - http://theory.caltech.edu/~preskill/ph219/chap6_20_6A.pdf
 
-### Mike & Ike:
+#### Mike & Ike:
   * Quantum Computation and Quantum Information , Authors: Michael A. Nielsen, Isaac L. Chuang
 
 
