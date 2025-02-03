@@ -16,10 +16,15 @@ In the second half of the course we will program simulations of quantum algorith
 * [Quantum-Computing-ECE-550.pdf](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 
 ## Lecture recordings:
-* [Lecture 1 - introduction](https://echo360.org/media/429f82d9-5ae3-47b0-b9b0-78e48ced89a8/public)
+* [Lecture 1 - Introduction.mov](https://echo360.org/media/429f82d9-5ae3-47b0-b9b0-78e48ced89a8/public)
+* [Lecutre 2 - Overview and feeble light.mov](https://echo360.org/media/86572df4-21ed-4bd9-9a94-608b08bc80df/public)
+* 
 
 ## Lecture Slides: 
-* [Lecture 01 - WW05 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lecture%2001%20-%20WW05%20-%20Introductions.pdf)
+* [Lecture 01 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
+* [Lecture 02 - Intro and feeble light.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW06%20-%20Lecture%2002%20-%20Intro%20and%20feeble%20light.pdf)
+* 
+
 
 ### Supporting Materials:
 #### Quantum Optics:
