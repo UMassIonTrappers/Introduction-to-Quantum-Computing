@@ -15,23 +15,31 @@ In the second half of the course we will program simulations of quantum algorith
 ## Lecture Notes:
 * [Quantum-Computing-ECE-550.pdf](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 
+<a href="https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0">
+  <img src="https://github.com/user-attachments/assets/aaec4e89-cbae-414f-bc8d-8618a6c14703" width="600"/>
+</a>
+
+
 ## Lecture recordings:
 * [Lecture 1 - Introduction.mov](https://echo360.org/media/429f82d9-5ae3-47b0-b9b0-78e48ced89a8/public)
-* [Lecture 2 - Overview and feeble light.mov](https://echo360.org/media/86572df4-21ed-4bd9-9a94-608b08bc80df/public)
+* [Lecture 2 - Intro and feeble light.mov](https://echo360.org/media/86572df4-21ed-4bd9-9a94-608b08bc80df/public)
 * [Lecture 3 - Mach Zehnder Interferometer.mov](https://echo360.org/media/d6befcf8-462c-4bcd-9168-47031aafae69/public)
+* [Lecture 4 - MZI with phase shift + quantum circuits.mov]()
 
 ## Lecture Slides: 
-* [Lecture 01 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
-* [Lecture 02 - Intro and feeble light.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW06%20-%20Lecture%2002%20-%20Intro%20and%20feeble%20light.pdf)
-* [Lecture 03 - Mach Zehnder Interferometer.pdf (pg1-8)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
+* [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
+* [Lecture 2 - Intro and feeble light.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW06%20-%20Lecture%2002%20-%20Intro%20and%20feeble%20light.pdf)
+* [Lecture 3 - Mach Zehnder Interferometer (pg1-9)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
+* [Lecture 4 - MZI with phase shift + quantum circuits.pdf (pg 11-17)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 
 
 
 ### Supporting Materials:
 #### Quantum Optics:
   * Ivan H. Deutsch’s Notes - http://info.phys.unm.edu/~ideutsch/Classes/Phys566F21/
+  * Mark Fox - [Quantum Optics: An Introduction](https://global.oup.com/academic/product/quantum-optics-9780198566731?cc=gb&lang=en&)
 
-#### Quantum Optics and Atomic Physics:
+#### Quantum Optics & Atomic Physics:
   * Daniel Steck’s Notes - https://atomoptics.uoregon.edu/~dsteck/teaching/quantum-optics/
 
 #### Quantum Computation:
@@ -44,7 +52,7 @@ In the second half of the course we will program simulations of quantum algorith
 * John Preskill - http://theory.caltech.edu/~preskill/ph219/chap6_20_6A.pdf
 
 #### Mike & Ike:
-  * Quantum Computation and Quantum Information , Authors: Michael A. Nielsen, Isaac L. Chuang
+  * [Quantum Computation and Quantum Information](https://www.cambridge.org/highereducation/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE#overview) by: Michael A. Nielsen & Isaac L. Chuang
 
 
 # How to use these Notebooks
