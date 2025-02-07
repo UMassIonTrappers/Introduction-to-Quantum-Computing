@@ -21,16 +21,16 @@ In the second half of the course we will program simulations of quantum algorith
 
 
 ## Lecture recordings:
-* [Lecture 1 - Introduction.mov](https://echo360.org/media/429f82d9-5ae3-47b0-b9b0-78e48ced89a8/public)
-* [Lecture 2 - Intro and feeble light.mov](https://echo360.org/media/86572df4-21ed-4bd9-9a94-608b08bc80df/public)
-* [Lecture 3 - Mach Zehnder Interferometer.mov](https://echo360.org/media/d6befcf8-462c-4bcd-9168-47031aafae69/public)
-* [Lecture 4 - MZI with phase shift + quantum circuits.mov](https://echo360.org/media/48ffbcf1-3f8b-4ad7-ae15-27fbe0373762/public)
+* [Lecture 1 - Introduction.mp4](https://echo360.org/media/429f82d9-5ae3-47b0-b9b0-78e48ced89a8/public)
+* [Lecture 2 - Intro and feeble light.mp4](https://echo360.org/media/86572df4-21ed-4bd9-9a94-608b08bc80df/public)
+* [Lecture 3 - Mach Zehnder Interferometer.mp4](https://echo360.org/media/d6befcf8-462c-4bcd-9168-47031aafae69/public)
+* [Lecture 4 - MZI with phase shift + quantum circuits.mp4](https://echo360.org/media/48ffbcf1-3f8b-4ad7-ae15-27fbe0373762/public)
 
 ## Lecture Slides: 
 * [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
 * [Lecture 2 - Intro and feeble light.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW06%20-%20Lecture%2002%20-%20Intro%20and%20feeble%20light.pdf)
 * [Lecture 3 - Mach Zehnder Interferometer (pg1-9)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
-* [Lecture 4 - MZI with phase shift + quantum circuits.pdf (pg 11-17)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
+* [Lecture 4 - MZI with phase shift + quantum circuits (pg 11-17)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 
 
 
