@@ -25,6 +25,8 @@ In the second half of the course we will program simulations of quantum algorith
 * [Lecture 2 - Intro and feeble light.mp4](https://echo360.org/media/86572df4-21ed-4bd9-9a94-608b08bc80df/public)
 * [Lecture 3 - Mach Zehnder Interferometer.mp4](https://echo360.org/media/d6befcf8-462c-4bcd-9168-47031aafae69/public)
 * [Lecture 4 - MZI with phase shift + quantum circuits.mp4](https://echo360.org/media/48ffbcf1-3f8b-4ad7-ae15-27fbe0373762/public)
+* [Lecture 5 - BraKet Notation and Bloch Sphere.mp4](https://echo360.org/media/57cdb837-0aa9-447f-89ba-2562d0822c4e/public)
+
 
 ## Lecture Slides: 
 * [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
