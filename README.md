@@ -33,6 +33,7 @@ In the second half of the course we will program simulations of quantum algorith
 * [Lecture 2 - Intro and feeble light.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW06%20-%20Lecture%2002%20-%20Intro%20and%20feeble%20light.pdf)
 * [Lecture 3 - Mach Zehnder Interferometer (pg1-9)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 * [Lecture 4 - MZI with phase shift + quantum circuits (pg 11-17)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
+* [Lecture 5 - BraKet Notation and Bloch Sphere.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW07%20-%20Lecture%2005%20-%20BraKet%20notation%20and%20the%20Bloch%20Sphere.pdf)
 
 
 
