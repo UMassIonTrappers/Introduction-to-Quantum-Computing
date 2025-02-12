@@ -26,6 +26,7 @@ In the second half of the course we will program simulations of quantum algorith
 * [Lecture 3 - Mach Zehnder Interferometer.mp4](https://echo360.org/media/d6befcf8-462c-4bcd-9168-47031aafae69/public)
 * [Lecture 4 - MZI with phase shift + quantum circuits.mp4](https://echo360.org/media/48ffbcf1-3f8b-4ad7-ae15-27fbe0373762/public)
 * [Lecture 5 - BraKet Notation and Bloch Sphere.mp4](https://echo360.org/media/57cdb837-0aa9-447f-89ba-2562d0822c4e/public)
+* [Lecture 6 - Rotations on the Bloch Sphere and Intro to Stern Gerlach.mp4](https://echo360.org/media/1a0999db-5f07-46ed-97c6-a9cac090ac99/public)
 
 
 ## Lecture Slides: 
