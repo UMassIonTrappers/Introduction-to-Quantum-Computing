@@ -12,6 +12,12 @@ Introduction to quantum computing starts with a basis in quantum optics using th
 Labs will start with simulations in QuTiP of single qubit operations such as Rabi and Ramsey pulse sequences and then entanglement of two qubits and bell state generation. This will allow us to construct quantum circuits from fundamental quantum mechanical interactions, effectively seeing into the ‘black box’ of quantum circuits. 
 In the second half of the course we will program simulations of quantum algorithms by Grover and Shor using the Qiskit and QuTIP python libraries.
 
+## Labs render embeded animations if opened with nbviewer:
+* [https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/tree/main/](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/tree/main/)
+* [Lab_03_Time_Dep_Schrodinger_Eq_and_Rabi_Oscillations.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_03_Time_Dep_Schr%C3%B6dinger_Eq_and_Rabi_Oscillations.ipynb)
+* [Lab_04_RWA_Rabi_oscillations_and_detuning.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_04_RWA_Rabi_oscillations_and_detuning.ipynb)
+
+
 ## Lecture Notes:
 * [Quantum-Computing-ECE-550.pdf](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 
