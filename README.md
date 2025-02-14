@@ -35,6 +35,7 @@ List of all labs on 'nbviewer.org' which renders all the embeded animations:
 1. [Lecture 4 - MZI with phase shift + quantum circuits.mp4](https://echo360.org/media/48ffbcf1-3f8b-4ad7-ae15-27fbe0373762/public)
 1. [Lecture 5 - BraKet Notation and Bloch Sphere.mp4](https://echo360.org/media/57cdb837-0aa9-447f-89ba-2562d0822c4e/public)
 1. [Lecture 6 - Rotations on the Bloch Sphere and Intro to Stern Gerlach.mp4](https://echo360.org/media/1a0999db-5f07-46ed-97c6-a9cac090ac99/public)
+1. [Lecture 7 - Stern Gerlach and projection/measurement in X,Y Basis states.mp4](https://echo360.org/media/42eca949-cbd3-46e7-95e3-e97c8d4f661c/public)
 
 
 ## Lecture Slides: 
@@ -44,6 +45,7 @@ List of all labs on 'nbviewer.org' which renders all the embeded animations:
 1. [Lecture 4 - MZI with phase shift + quantum circuits (pg 11-17)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 1. [Lecture 5 - BraKet Notation and Bloch Sphere.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW07%20-%20Lecture%2005%20-%20BraKet%20notation%20and%20the%20Bloch%20Sphere.pdf)
 1. [Lecture 6 - Rotations on the Bloch Sphere.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW07%20-%20Lecture%2006%20-%20Rotations%20on%20the%20Bloch%20Sphere.pdf)
+1. [Lecture 7 - Stern Gerlach and projection/measurement in X,Y Basis states.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW07%20-%20Lecture%2007%20-%20Stern%20Gerlach.pdf)
 
 
 ### Supporting Materials:
