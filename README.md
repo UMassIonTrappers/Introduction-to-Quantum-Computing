@@ -14,6 +14,7 @@ In the second half of the course we will program simulations of quantum algorith
 
 ## Labs render embeded animations if opened with nbviewer:
 * [https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/tree/main/](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/tree/main/)
+* [Lab_02_Measurement_Basis,_Spatial_quantization_and_the_Stern_Gerlach_Exp.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_02_Measurement_Basis%2C_Spatial_quantization_and_the_Stern_Gerlach_Exp_.ipynb)
 * [Lab_03_Time_Dep_Schrodinger_Eq_and_Rabi_Oscillations.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_03_Time_Dep_Schr%C3%B6dinger_Eq_and_Rabi_Oscillations.ipynb)
 * [Lab_04_RWA_Rabi_oscillations_and_detuning.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_04_RWA_Rabi_oscillations_and_detuning.ipynb)
 
