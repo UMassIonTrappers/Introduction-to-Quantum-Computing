@@ -12,11 +12,12 @@ Introduction to quantum computing starts with a basis in quantum optics using th
 Labs will start with simulations in QuTiP of single qubit operations such as Rabi and Ramsey pulse sequences and then entanglement of two qubits and bell state generation. This will allow us to construct quantum circuits from fundamental quantum mechanical interactions, effectively seeing into the ‘black box’ of quantum circuits. 
 In the second half of the course we will program simulations of quantum algorithms by Grover and Shor using the Qiskit and QuTIP python libraries.
 
-## Labs render embeded animations if opened with nbviewer:
+List of all labs on 'nbviewer.org' which renders all the embeded animations:
 * [https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/tree/main/](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/tree/main/)
-* [Lab_02_Measurement_Basis,_Spatial_quantization_and_the_Stern_Gerlach_Exp.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_02_Measurement_Basis%2C_Spatial_quantization_and_the_Stern_Gerlach_Exp_.ipynb)
-* [Lab_03_Time_Dep_Schrodinger_Eq_and_Rabi_Oscillations.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_03_Time_Dep_Schr%C3%B6dinger_Eq_and_Rabi_Oscillations.ipynb)
-* [Lab_04_RWA_Rabi_oscillations_and_detuning.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_04_RWA_Rabi_oscillations_and_detuning.ipynb)
+1. [Lab_01_Quantum_states_and_the_Bloch_sphere.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_01_Quantum_states_and_the_Bloch_sphere.ipynb)
+1. [Lab_02_Measurement_Basis,_Spatial_quantization_and_the_Stern_Gerlach_Exp.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_02_Measurement_Basis%2C_Spatial_quantization_and_the_Stern_Gerlach_Exp_.ipynb)
+1. [Lab_03_Time_Dep_Schrodinger_Eq_and_Rabi_Oscillations.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_03_Time_Dep_Schr%C3%B6dinger_Eq_and_Rabi_Oscillations.ipynb)
+1. [Lab_04_RWA_Rabi_oscillations_and_detuning.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_04_RWA_Rabi_oscillations_and_detuning.ipynb)
 
 
 ## Lecture Notes:
@@ -28,21 +29,23 @@ In the second half of the course we will program simulations of quantum algorith
 
 
 ## Lecture recordings:
-* [Lecture 1 - Introduction.mp4](https://echo360.org/media/429f82d9-5ae3-47b0-b9b0-78e48ced89a8/public)
-* [Lecture 2 - Intro and feeble light.mp4](https://echo360.org/media/86572df4-21ed-4bd9-9a94-608b08bc80df/public)
-* [Lecture 3 - Mach Zehnder Interferometer.mp4](https://echo360.org/media/d6befcf8-462c-4bcd-9168-47031aafae69/public)
-* [Lecture 4 - MZI with phase shift + quantum circuits.mp4](https://echo360.org/media/48ffbcf1-3f8b-4ad7-ae15-27fbe0373762/public)
-* [Lecture 5 - BraKet Notation and Bloch Sphere.mp4](https://echo360.org/media/57cdb837-0aa9-447f-89ba-2562d0822c4e/public)
-* [Lecture 6 - Rotations on the Bloch Sphere and Intro to Stern Gerlach.mp4](https://echo360.org/media/1a0999db-5f07-46ed-97c6-a9cac090ac99/public)
+1. [Lecture 1 - Introduction.mp4](https://echo360.org/media/429f82d9-5ae3-47b0-b9b0-78e48ced89a8/public)
+1. [Lecture 2 - Intro and feeble light.mp4](https://echo360.org/media/86572df4-21ed-4bd9-9a94-608b08bc80df/public)
+1. [Lecture 3 - Mach Zehnder Interferometer.mp4](https://echo360.org/media/d6befcf8-462c-4bcd-9168-47031aafae69/public)
+1. [Lecture 4 - MZI with phase shift + quantum circuits.mp4](https://echo360.org/media/48ffbcf1-3f8b-4ad7-ae15-27fbe0373762/public)
+1. [Lecture 5 - BraKet Notation and Bloch Sphere.mp4](https://echo360.org/media/57cdb837-0aa9-447f-89ba-2562d0822c4e/public)
+1. [Lecture 6 - Rotations on the Bloch Sphere and Intro to Stern Gerlach.mp4](https://echo360.org/media/1a0999db-5f07-46ed-97c6-a9cac090ac99/public)
+1. [Lecture 7 - Stern Gerlach and projection/measurement in X,Y Basis states.mp4](https://echo360.org/media/42eca949-cbd3-46e7-95e3-e97c8d4f661c/public)
 
 
 ## Lecture Slides: 
-* [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
-* [Lecture 2 - Intro and feeble light.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW06%20-%20Lecture%2002%20-%20Intro%20and%20feeble%20light.pdf)
-* [Lecture 3 - Mach Zehnder Interferometer (pg1-9)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
-* [Lecture 4 - MZI with phase shift + quantum circuits (pg 11-17)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
-* [Lecture 5 - BraKet Notation and Bloch Sphere.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW07%20-%20Lecture%2005%20-%20BraKet%20notation%20and%20the%20Bloch%20Sphere.pdf)
-* [Lecture 6 - Rotations on the Bloch Sphere.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW07%20-%20Lecture%2006%20-%20Rotations%20on%20the%20Bloch%20Sphere.pdf)
+1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
+1. [Lecture 2 - Intro and feeble light.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW06%20-%20Lecture%2002%20-%20Intro%20and%20feeble%20light.pdf)
+1. [Lecture 3 - Mach Zehnder Interferometer (pg1-9)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
+1. [Lecture 4 - MZI with phase shift + quantum circuits (pg 11-17)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
+1. [Lecture 5 - BraKet Notation and Bloch Sphere.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW07%20-%20Lecture%2005%20-%20BraKet%20notation%20and%20the%20Bloch%20Sphere.pdf)
+1. [Lecture 6 - Rotations on the Bloch Sphere.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW07%20-%20Lecture%2006%20-%20Rotations%20on%20the%20Bloch%20Sphere.pdf)
+1. [Lecture 7 - Stern Gerlach and projection/measurement in X,Y Basis states.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW07%20-%20Lecture%2007%20-%20Stern%20Gerlach.pdf)
 
 
 ### Supporting Materials:
