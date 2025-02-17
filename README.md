@@ -1,6 +1,6 @@
 # Intro to Quantum Computing - ECE 550/650
 
-Copyright © Robert Niffenegger (2025)
+© Robert Niffenegger (2025)
 
 rniffenegger@umass.edu
 
