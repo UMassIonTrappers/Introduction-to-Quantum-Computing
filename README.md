@@ -1,6 +1,8 @@
 # Intro to Quantum Computing - ECE 550/650
 
-by Robert Niffenegger (rniffenegger@umass.edu)
+© Robert Niffenegger (2025)
+
+rniffenegger@umass.edu
 
 ### Quantum Optics →  Qubits → Quantum Algorithms
 
