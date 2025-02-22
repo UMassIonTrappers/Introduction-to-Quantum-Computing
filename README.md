@@ -38,7 +38,9 @@ List of all labs on 'nbviewer.org' which renders all the embeded animations:
 1. [Lecture 5 - BraKet Notation and Bloch Sphere.mp4](https://echo360.org/media/57cdb837-0aa9-447f-89ba-2562d0822c4e/public)
 1. [Lecture 6 - Rotations on the Bloch Sphere and Intro to Stern Gerlach.mp4](https://echo360.org/media/1a0999db-5f07-46ed-97c6-a9cac090ac99/public)
 1. [Lecture 7 - Stern Gerlach and projection/measurement in X,Y Basis states.mp4](https://echo360.org/media/42eca949-cbd3-46e7-95e3-e97c8d4f661c/public)
-
+1. [Lecture 8 - Projection review and the Schrodinger Equation.mp4](https://echo360.org/media/6c1e4f20-3c71-4a59-83c8-5603704c0be1/public)
+1. [Lecture 9 - MSFT's search for Majorana and more Time Dependent Schrodinger Equation.mp4](https://echo360.org/media/9f6f4f16-953b-4484-9396-857d0bdac4dd/public)
+2. [Lecture 10 - Rabi Oscillations part 1.mp4](https://echo360.org/media/860ab198-ce27-41b1-9f2b-defcbfda0771/public)
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
@@ -48,6 +50,9 @@ List of all labs on 'nbviewer.org' which renders all the embeded animations:
 1. [Lecture 5 - BraKet Notation and Bloch Sphere.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW07%20-%20Lecture%2005%20-%20BraKet%20notation%20and%20the%20Bloch%20Sphere.pdf)
 1. [Lecture 6 - Rotations on the Bloch Sphere.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW07%20-%20Lecture%2006%20-%20Rotations%20on%20the%20Bloch%20Sphere.pdf)
 1. [Lecture 7 - Stern Gerlach and projection/measurement in X,Y Basis states.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW07%20-%20Lecture%2007%20-%20Stern%20Gerlach.pdf)
+1. [Lecture 8 - Projection review and the Schrodinger Equation (pg 36-46)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
+1. [Lecture 9 - Time Dependent Schrodinger Equation (pg 41-46)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
+1. [Lecture 10 - Rabi Oscillations part 1 (pg 45-48)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 
 
 ### Supporting Materials:
