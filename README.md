@@ -40,7 +40,10 @@ List of all labs on 'nbviewer.org' which renders all the embeded animations:
 1. [Lecture 7 - Stern Gerlach and projection/measurement in X,Y Basis states.mp4](https://echo360.org/media/42eca949-cbd3-46e7-95e3-e97c8d4f661c/public)
 1. [Lecture 8 - Projection review and the Schrodinger Equation.mp4](https://echo360.org/media/6c1e4f20-3c71-4a59-83c8-5603704c0be1/public)
 1. [Lecture 9 - MSFT's search for Majorana and more Time Dependent Schrodinger Equation.mp4](https://echo360.org/media/9f6f4f16-953b-4484-9396-857d0bdac4dd/public)
-2. [Lecture 10 - Rabi Oscillations part 1.mp4](https://echo360.org/media/860ab198-ce27-41b1-9f2b-defcbfda0771/public)
+1. [Lecture 10 - Rabi Oscillations and Infinite Square Well.mp4](https://echo360.org/media/860ab198-ce27-41b1-9f2b-defcbfda0771/public)
+1. [Lecture 11 - Rotating Wave Approximation part 1.mp4](https://echo360.org/media/02c291df-1e80-4991-bc24-0288ed0f32e3/public)
+1. [Lecture 12 - Rotating Wave Approximation part 2.mp4](https://echo360.org/media/fdbc771b-68d4-45ef-835d-2e19d06f4552/public)
+
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
@@ -52,7 +55,9 @@ List of all labs on 'nbviewer.org' which renders all the embeded animations:
 1. [Lecture 7 - Stern Gerlach and projection/measurement in X,Y Basis states.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW07%20-%20Lecture%2007%20-%20Stern%20Gerlach.pdf)
 1. [Lecture 8 - Projection review and the Schrodinger Equation (pg 36-46)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 1. [Lecture 9 - Time Dependent Schrodinger Equation (pg 41-46)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
-1. [Lecture 10 - Rabi Oscillations part 1 (pg 45-48)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
+1. [Lecture 10 - Rabi Oscillations and Infinite Square Well (pg 45-48)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
+1. [Lecture 11 - Rotating Wave Approximation part 1 (pg 49-54)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
+1. [Lecture 12 - Rotating Wave Approximation part 2 (pg 49-54)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 
 
 ### Supporting Materials:
