@@ -23,8 +23,8 @@ List of all labs on 'nbviewer.org' which renders all the embeded animations:
 
 Rotating Wave Approximation animation from Lab 4:
 
-<img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/EXACT_resonance_rotating.gif?raw=true" width="200">
-<img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Rabi_oscillation_2D_vs_time_detuning_w_bloch.gif?raw=true" width="300">
+<img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/EXACT_resonance_rotating.gif?raw=true" width="200">
+<img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/Rabi_oscillation_2D_vs_time_detuning_w_bloch.gif?raw=true" width="300">
 
 
 ## Lecture Notes:
