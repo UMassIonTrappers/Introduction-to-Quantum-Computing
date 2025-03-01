@@ -21,9 +21,11 @@ List of all labs on 'nbviewer.org' which renders all the embeded animations:
 1. [Lab_03_Time_Dep_Schrodinger_Eq_and_Rabi_Oscillations.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_03_Time_Dep_Schr%C3%B6dinger_Eq_and_Rabi_Oscillations.ipynb)
 1. [Lab_04_RWA_Rabi_oscillations_and_detuning.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_04_RWA_Rabi_oscillations_and_detuning.ipynb)
 
-Rotating Wave Approximation animation from Lab 4
+Rotating Wave Approximation animation from Lab 4:
 
-<img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/RWA.gif?raw=true" width="200">
+<img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/EXACT_resonance_rotating.gif?raw=true" width="200">
+<img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Rabi_oscillation_2D_vs_time_detuning_w_bloch.gif?raw=true" width="300">
+
 
 ## Lecture Notes:
 * [Quantum-Computing-ECE-550.pdf](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
