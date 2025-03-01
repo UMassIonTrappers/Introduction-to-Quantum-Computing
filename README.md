@@ -44,9 +44,9 @@ Rotating Wave Approximation animation from Lab 4
 1. [Lecture 8 - Projection review and the Schrodinger Equation.mp4](https://echo360.org/media/6c1e4f20-3c71-4a59-83c8-5603704c0be1/public)
 1. [Lecture 9 - MSFT's search for Majorana and more Time Dependent Schrodinger Equation.mp4](https://echo360.org/media/9f6f4f16-953b-4484-9396-857d0bdac4dd/public)
 1. [Lecture 10 - Rabi Oscillations and Infinite Square Well.mp4](https://echo360.org/media/860ab198-ce27-41b1-9f2b-defcbfda0771/public)
-1. [Lecture 11 - Rotating Wave Approximation part 1.mp4](https://echo360.org/media/02c291df-1e80-4991-bc24-0288ed0f32e3/public)
-1. [Lecture 12 - Rotating Wave Approximation part 2.mp4](https://echo360.org/media/fdbc771b-68d4-45ef-835d-2e19d06f4552/public)
-
+1. [Lecture 11 - Rotating Wave Approximation part 1 - resonance.mp4](https://echo360.org/media/02c291df-1e80-4991-bc24-0288ed0f32e3/public)
+1. [Lecture 12 - Rotating Wave Approximation part 2 - rotating frames.mp4](https://echo360.org/media/fdbc771b-68d4-45ef-835d-2e19d06f4552/public)
+1. [Lecture 13 - Rotating Wave Approximation part 3 - detuned rotating frames.mp4](https://echo360.org/media/f8dc5b4a-177a-4f37-abd6-1e00b300f016/public)
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
@@ -61,6 +61,7 @@ Rotating Wave Approximation animation from Lab 4
 1. [Lecture 10 - Rabi Oscillations and Infinite Square Well (pg 45-48)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 1. [Lecture 11 - Rotating Wave Approximation part 1 (pg 49-54)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 1. [Lecture 12 - Rotating Wave Approximation part 2 (pg 49-54)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
+1. [Lecture 13 - Rotating Wave Approximation part 3 (Lab 4 & pg 55-56)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 
 
 ### Supporting Materials:
