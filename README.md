@@ -52,6 +52,8 @@ Rotating Wave Approximation animation from Lab 4:
 1. [Lecture 11 - Rotating Wave Approximation part 1 - resonance.mp4](https://echo360.org/media/02c291df-1e80-4991-bc24-0288ed0f32e3/public)
 1. [Lecture 12 - Rotating Wave Approximation part 2 - rotating frames.mp4](https://echo360.org/media/fdbc771b-68d4-45ef-835d-2e19d06f4552/public)
 1. [Lecture 13 - Rotating Wave Approximation part 3 - detuned rotating frames.mp4](https://echo360.org/media/f8dc5b4a-177a-4f37-abd6-1e00b300f016/public)
+1. [Lecture 14 - RWA review - X vs. Y drives from phase of drive.mp4](https://echo360.org/media/260e74b8-a5ec-4ce4-b49d-f806cae0c975/public)
+
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
