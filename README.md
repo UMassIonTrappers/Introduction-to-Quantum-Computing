@@ -59,6 +59,7 @@ Rotating Wave Approximation animation from Lab 4:
 1. [Lecture 13 (Feb 28th) - Rotating Wave Approximation part 3 - detuned rotating frames.mp4](https://echo360.org/media/f8dc5b4a-177a-4f37-abd6-1e00b300f016/public)
 1. [Lecture 14 (Mar 3rd) - RWA review - X vs. Y drives from phase of drive.mp4](https://echo360.org/media/260e74b8-a5ec-4ce4-b49d-f806cae0c975/public)
 1. [Lecture 15 (Mar 5th) - Composite Pulse Sequences and Ramsey.mp4](https://echo360.org/media/4116e1ad-cc11-47da-b9fe-dafd98a2156c/public)
+1. [Lecture 16 (Mar 7th) - Ramsey and intro to 2Q.mp4](https://echo360.org/media/b41cc01e-44d3-4b70-a49a-d30066ccc803/public)
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
