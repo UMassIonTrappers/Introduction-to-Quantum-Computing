@@ -14,15 +14,10 @@ Introduction to quantum computing starts with a basis in quantum optics using th
 Labs will start with simulations in QuTiP of single qubit operations such as Rabi and Ramsey pulse sequences and then entanglement of two qubits and bell state generation. This will allow us to construct quantum circuits from fundamental quantum mechanical interactions, effectively seeing into the ‘black box’ of quantum circuits. 
 In the second half of the course we will program simulations of quantum algorithms by Grover and Shor using the Qiskit and QuTIP python libraries.
 
-List of all labs on 'nbviewer.org' which renders all the embeded animations:
-* [https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/tree/main/](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/tree/main/)
-* Colab works too if the files are not too large...
-  
-1. [Lab_01_Quantum_states_and_the_Bloch_sphere.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_01_Quantum_states_and_the_Bloch_sphere.ipynb)
-1. [Lab_02_Measurement_Basis,_Spatial_quantization_and_the_Stern_Gerlach_Exp.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_02_Measurement_Basis%2C_Spatial_quantization_and_the_Stern_Gerlach_Exp_.ipynb)
-1. [Lab_03 - part A -_Time_Dep_Schrodinger_Eq.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_03A_Time_Dep_Schr%C3%B6dinger_Eq_and_Rabi_Oscillations.ipynb)
-1. [Lab_03_Time_Dep_Schrodinger_Eq_and_Rabi_Oscillations.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_03_Time_Dep_Schr%C3%B6dinger_Eq_and_Rabi_Oscillations.ipynb)
-1. [Lab_04_RWA_Rabi_oscillations_and_detuning.ipynb](https://nbviewer.org/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/Lab_04_RWA_Rabi_oscillations_and_detuning.ipynb)
+1. [Lab_01_Quantum_states_and_the_Bloch_sphere.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_01_Quantum_states_and_the_Bloch_sphere.ipynb)
+1. [Lab_02_Measurement_Basis,_Spatial_quantization_and_the_Stern_Gerlach_Exp.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_02_Measurement_Basis%2C_Spatial_quantization_and_the_Stern_Gerlach_Exp_.ipynb)
+1. [Lab_03 - Time_Dep_Schr%C3%B6dinger_Eq_and_Rabi_Oscillations.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_03A_Time_Dep_Schr%C3%B6dinger_Eq_and_Rabi_Oscillations.ipynb)
+1. [Lab_04_RWA_Rabi_oscillations_and_detuning.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_04_RWA_Rabi_oscillations_and_detuning.ipynb)
 1. [Lab_05 - Part A -_X_vs_Y_pulses.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_05a_X_vs_Y_pulses.ipynb)
 1. [Lab_05 - Part B -_Ramsey.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_05b_Ramsey.ipynb)
 1. [Lab_05_Noise_and_composite_pulses.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_05_Noise_and_composite_pulses.ipynb)
@@ -59,6 +54,7 @@ Rotating Wave Approximation animation from Lab 4:
 1. [Lecture 13 (Feb 28th) - Rotating Wave Approximation part 3 - detuned rotating frames.mp4](https://echo360.org/media/f8dc5b4a-177a-4f37-abd6-1e00b300f016/public)
 1. [Lecture 14 (Mar 3rd) - RWA review - X vs. Y drives from phase of drive.mp4](https://echo360.org/media/260e74b8-a5ec-4ce4-b49d-f806cae0c975/public)
 1. [Lecture 15 (Mar 5th) - Composite Pulse Sequences and Ramsey.mp4](https://echo360.org/media/4116e1ad-cc11-47da-b9fe-dafd98a2156c/public)
+1. [Lecture 16 (Mar 7th) - Ramsey and intro to 2Q.mp4](https://echo360.org/media/b41cc01e-44d3-4b70-a49a-d30066ccc803/public)
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
