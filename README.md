@@ -6,7 +6,11 @@ rniffenegger@umass.edu
 
 ### Quantum Optics →  Qubits → Quantum Algorithms
 
-Introduction to quantum computing starts with a basis in quantum optics using the Mach Zehnder Interferometer as a foundation. We then learn about atomic physics and quantum mechanics in the context of various qubit technology modalities such as trapped ions. In weekly Python labs students program simulations of single qubit operations such as Rabi and Ramsey pulse sequences as well as two qubit manipulations for Bell state generation to construct quantum circuits from fundamental quantum mechanical interactions. In the 2nd half of the semester these labs culminate in programming simulations of quantum algorithms by Grover and Shor using quantum computing Python libraries such as Qiskit and QuTiP and executing them on real quantum computers.
+Introduction to Quantum Computing begins with a foundation in quantum optics, studying the Mach-Zehnder interferometer. We then explore atomic physics and quantum mechanics in the context of various qubit technologies, such as trapped ions.
+
+Throughout the semester, students engage in weekly Python labs based on QuTiP where they program simulations of single-qubit operations, including Rabi oscillations and Ramsey pulse sequences, as well as generating two-qubit from first principles with Hamiltonians for generating entanglement (Bell states). These exercises enable construction of quantum circuits based on fundamental quantum mechanical interactions via Hamiltonians.
+
+In the second half of the semester, these labs culminate in a survey and simulation of multiple quantum algorithms, such as Grover’s and Shor’s algorithms, as well as rudimentary error correction, using quantum computing libraries like Qiskit. Students also gain hands-on experience by executing their programs on real quantum computers.
 
 #### Discord: https://discord.gg/zwXMNDdDN5 
 
@@ -71,6 +75,16 @@ Rotating Wave Approximation animation from Lab 4:
 1. [Lecture 11 - Rotating Wave Approximation part 1 (pg 49-54)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 1. [Lecture 12 - Rotating Wave Approximation part 2 (pg 49-54)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 1. [Lecture 13 - Rotating Wave Approximation part 3 (Lab 4 & pg 55-56)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
+
+### Schedule:
+  * HW 1 Due - Feb 17 
+  * HW 2 Due - Feb 24 
+  * Lab 3 Due - March 3 
+  * Lab 4 Due - March 10 
+  * Lab 5 Due - March 17 
+  * Lab 6 Due - March 24
+  * Midterm - March 25 - ILC-S140 - 7-9PM
+  * Lab 7 Due - March 31
 
 
 ### Supporting Materials:
