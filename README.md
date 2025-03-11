@@ -18,14 +18,14 @@ In the second half of the semester, these labs culminate in a survey and simulat
 Labs will start with simulations in QuTiP of single qubit operations such as Rabi and Ramsey pulse sequences and then entanglement of two qubits and bell state generation. This will allow us to construct quantum circuits from fundamental quantum mechanical interactions, effectively seeing into the ‘black box’ of quantum circuits. 
 In the second half of the course we will program simulations of quantum algorithms by Grover and Shor using the Qiskit and QuTIP python libraries.
 
-1. [Lab_01_Quantum_states_and_the_Bloch_sphere.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_01_Quantum_states_and_the_Bloch_sphere.ipynb)
-1. [Lab_02_Measurement_Basis,_Spatial_quantization_and_the_Stern_Gerlach_Exp.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_02_Measurement_Basis%2C_Spatial_quantization_and_the_Stern_Gerlach_Exp_.ipynb)
-1. [Lab_03 - Time_Dep_Schr%C3%B6dinger_Eq_and_Rabi_Oscillations.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_03A_Time_Dep_Schr%C3%B6dinger_Eq_and_Rabi_Oscillations.ipynb)
-1. [Lab_04_RWA_Rabi_oscillations_and_detuning.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_04_RWA_Rabi_oscillations_and_detuning.ipynb)
-1. [Lab_05 - Part A -_X_vs_Y_pulses.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_05a_X_vs_Y_pulses.ipynb)
-1. [Lab_05 - Part B -_Ramsey.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_05b_Ramsey.ipynb)
-1. [Lab_05_Noise_and_composite_pulses.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_05_Noise_and_composite_pulses.ipynb)
-1. [Lab_06_- Two Qubit Gates and Entanglement.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_06_2_Qubit_gates.ipynb)
+1. [Lab_01_Quantum_states_and_the_Bloch_sphere.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_01_Quantum_states_and_the_Bloch_sphere.ipynb)
+1. [Lab_02_Measurement_Basis,_Spatial_quantization_and_the_Stern_Gerlach_Exp.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_02_Measurement_Basis%2C_Spatial_quantization_and_the_Stern_Gerlach_Exp_.ipynb)
+1. [Lab_03 - Time_Dep_Schr%C3%B6dinger_Eq_and_Rabi_Oscillations.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_03A_Time_Dep_Schr%C3%B6dinger_Eq_and_Rabi_Oscillations.ipynb)
+1. [Lab_04_RWA_Rabi_oscillations_and_detuning.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_04_RWA_Rabi_oscillations_and_detuning.ipynb)
+1. [Lab_05 - Part A -_X_vs_Y_pulses.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_05a_X_vs_Y_pulses.ipynb)
+1. [Lab_05 - Part B -_Ramsey.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_05b_Ramsey.ipynb)
+1. [Lab_05_Noise_and_composite_pulses.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_05_Noise_and_composite_pulses.ipynb)
+1. [Lab_06_- Two Qubit Gates and Entanglement.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_06_2_Qubit_gates.ipynb)
 
 Rotating Wave Approximation animation from Lab 4:
 
