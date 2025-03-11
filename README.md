@@ -6,7 +6,11 @@ rniffenegger@umass.edu
 
 ### Quantum Optics →  Qubits → Quantum Algorithms
 
-Introduction to quantum computing starts with a basis in quantum optics using the Mach Zehnder Interferometer as a foundation. We then learn about atomic physics and quantum mechanics in the context of various qubit technology modalities such as trapped ions. In weekly Python labs students program simulations of single qubit operations such as Rabi and Ramsey pulse sequences as well as two qubit manipulations for Bell state generation to construct quantum circuits from fundamental quantum mechanical interactions. In the 2nd half of the semester these labs culminate in programming simulations of quantum algorithms by Grover and Shor using quantum computing Python libraries such as Qiskit and QuTiP and executing them on real quantum computers.
+Introduction to Quantum Computing begins with a foundation in quantum optics, studying the Mach-Zehnder interferometer. We then explore atomic physics and quantum mechanics in the context of various qubit technologies, such as trapped ions.
+
+Throughout the semester, students engage in weekly Python labs based on QuTiP where they program simulations of single-qubit operations, including Rabi oscillations and Ramsey pulse sequences, as well as generating two-qubit from first principles with Hamiltonians for generating entanglement (Bell states). These exercises enable construction of quantum circuits based on fundamental quantum mechanical interactions via Hamiltonians.
+
+In the second half of the semester, these labs culminate in a survey and simulation of multiple quantum algorithms, such as Grover’s and Shor’s algorithms, as well as rudimentary error correction, using quantum computing libraries like Qiskit. Students also gain hands-on experience by executing their programs on real quantum computers.
 
 #### Discord: https://discord.gg/zwXMNDdDN5 
 
@@ -21,6 +25,7 @@ In the second half of the course we will program simulations of quantum algorith
 1. [Lab_05 - Part A -_X_vs_Y_pulses.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_05a_X_vs_Y_pulses.ipynb)
 1. [Lab_05 - Part B -_Ramsey.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_05b_Ramsey.ipynb)
 1. [Lab_05_Noise_and_composite_pulses.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_05_Noise_and_composite_pulses.ipynb)
+1. [Lab_06_- Two Qubit Gates and Entanglement.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/Lab_06_2_Qubit_gates.ipynb)
 
 Rotating Wave Approximation animation from Lab 4:
 
@@ -39,22 +44,23 @@ Rotating Wave Approximation animation from Lab 4:
 
 
 ## Lecture recordings:
-1. [Lecture 1 (Jan 31st) - Introduction.mp4](https://echo360.org/media/429f82d9-5ae3-47b0-b9b0-78e48ced89a8/public)
-1. [Lecture 2 (Feb 3rd) - Intro and feeble light.mp4](https://echo360.org/media/86572df4-21ed-4bd9-9a94-608b08bc80df/public)
-1. [Lecture 3 (Feb 5th) - Mach Zehnder Interferometer.mp4](https://echo360.org/media/d6befcf8-462c-4bcd-9168-47031aafae69/public)
-1. [Lecture 4 (Feb 7th) - MZI with phase shift + quantum circuits.mp4](https://echo360.org/media/48ffbcf1-3f8b-4ad7-ae15-27fbe0373762/public)
-1. [Lecture 5 (Feb 10th) - BraKet Notation and Bloch Sphere.mp4](https://echo360.org/media/57cdb837-0aa9-447f-89ba-2562d0822c4e/public)
-1. [Lecture 6 (Feb 12th) - Rotations on the Bloch Sphere and Intro to Stern Gerlach.mp4](https://echo360.org/media/1a0999db-5f07-46ed-97c6-a9cac090ac99/public)
-1. [Lecture 7 (Feb 14th) - Stern Gerlach and projection/measurement in X,Y Basis states.mp4](https://echo360.org/media/42eca949-cbd3-46e7-95e3-e97c8d4f661c/public)
-1. [Lecture 8 (Feb 19th) - Projection review and the Schrodinger Equation.mp4](https://echo360.org/media/6c1e4f20-3c71-4a59-83c8-5603704c0be1/public)
-1. [Lecture 9 (Feb 20th) -  MSFT's search for Majorana and more Time Dependent Schrodinger Equation.mp4](https://echo360.org/media/9f6f4f16-953b-4484-9396-857d0bdac4dd/public)
-1. [Lecture 10 (Feb 21st) - Rabi Oscillations and Infinite Square Well.mp4](https://echo360.org/media/860ab198-ce27-41b1-9f2b-defcbfda0771/public)
-1. [Lecture 11 (Feb 24th) - Rotating Wave Approximation part 1 - resonance.mp4](https://echo360.org/media/02c291df-1e80-4991-bc24-0288ed0f32e3/public)
-1. [Lecture 12 (Feb 26th) - Rotating Wave Approximation part 2 - rotating frames.mp4](https://echo360.org/media/fdbc771b-68d4-45ef-835d-2e19d06f4552/public)
-1. [Lecture 13 (Feb 28th) - Rotating Wave Approximation part 3 - detuned rotating frames.mp4](https://echo360.org/media/f8dc5b4a-177a-4f37-abd6-1e00b300f016/public)
-1. [Lecture 14 (Mar 3rd) - RWA review - X vs. Y drives from phase of drive.mp4](https://echo360.org/media/260e74b8-a5ec-4ce4-b49d-f806cae0c975/public)
-1. [Lecture 15 (Mar 5th) - Composite Pulse Sequences and Ramsey.mp4](https://echo360.org/media/4116e1ad-cc11-47da-b9fe-dafd98a2156c/public)
-1. [Lecture 16 (Mar 7th) - Ramsey and intro to 2Q.mp4](https://echo360.org/media/b41cc01e-44d3-4b70-a49a-d30066ccc803/public)
+1. [Lecture 1 (Jan 31) - Introduction.mp4](https://echo360.org/media/429f82d9-5ae3-47b0-b9b0-78e48ced89a8/public)
+1. [Lecture 2 (Feb 3) - Intro and feeble light.mp4](https://echo360.org/media/86572df4-21ed-4bd9-9a94-608b08bc80df/public)
+1. [Lecture 3 (Feb 5) - Mach Zehnder Interferometer.mp4](https://echo360.org/media/d6befcf8-462c-4bcd-9168-47031aafae69/public)
+1. [Lecture 4 (Feb 7) - MZI with phase shift + quantum circuits.mp4](https://echo360.org/media/48ffbcf1-3f8b-4ad7-ae15-27fbe0373762/public)
+1. [Lecture 5 (Feb 10) - BraKet Notation and Bloch Sphere.mp4](https://echo360.org/media/57cdb837-0aa9-447f-89ba-2562d0822c4e/public)
+1. [Lecture 6 (Feb 12) - Rotations on the Bloch Sphere and Intro to Stern Gerlach.mp4](https://echo360.org/media/1a0999db-5f07-46ed-97c6-a9cac090ac99/public)
+1. [Lecture 7 (Feb 14) - Stern Gerlach and projection/measurement in X,Y Basis states.mp4](https://echo360.org/media/42eca949-cbd3-46e7-95e3-e97c8d4f661c/public)
+1. [Lecture 8 (Feb 19) - Projection review and the Schrodinger Equation.mp4](https://echo360.org/media/6c1e4f20-3c71-4a59-83c8-5603704c0be1/public)
+1. [Lecture 9 (Feb 20) -  MSFT's search for Majorana and more Time Dependent Schrodinger Equation.mp4](https://echo360.org/media/9f6f4f16-953b-4484-9396-857d0bdac4dd/public)
+1. [Lecture 10 (Feb 21) - Rabi Oscillations and Infinite Square Well.mp4](https://echo360.org/media/860ab198-ce27-41b1-9f2b-defcbfda0771/public)
+1. [Lecture 11 (Feb 24) - Rotating Wave Approximation part 1 - resonance.mp4](https://echo360.org/media/02c291df-1e80-4991-bc24-0288ed0f32e3/public)
+1. [Lecture 12 (Feb 26) - Rotating Wave Approximation part 2 - rotating frames.mp4](https://echo360.org/media/fdbc771b-68d4-45ef-835d-2e19d06f4552/public)
+1. [Lecture 13 (Feb 28) - Rotating Wave Approximation part 3 - detuned rotating frames.mp4](https://echo360.org/media/f8dc5b4a-177a-4f37-abd6-1e00b300f016/public)
+1. [Lecture 14 (Mar 3) - RWA review - X vs. Y drives from phase of drive.mp4](https://echo360.org/media/260e74b8-a5ec-4ce4-b49d-f806cae0c975/public)
+1. [Lecture 15 (Mar 5) - Composite Pulse Sequences and Ramsey.mp4](https://echo360.org/media/4116e1ad-cc11-47da-b9fe-dafd98a2156c/public)
+1. [Lecture 16 (Mar 7) - Ramsey and intro to 2Q.mp4](https://echo360.org/media/b41cc01e-44d3-4b70-a49a-d30066ccc803/public)
+1. [Lecture 17 (Mar 10) - Two Qubit Gates.mp4](https://echo360.org/media/688eedcd-f871-4350-b377-01242d3cf33c/public) 
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
@@ -70,6 +76,16 @@ Rotating Wave Approximation animation from Lab 4:
 1. [Lecture 11 - Rotating Wave Approximation part 1 (pg 49-54)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 1. [Lecture 12 - Rotating Wave Approximation part 2 (pg 49-54)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 1. [Lecture 13 - Rotating Wave Approximation part 3 (Lab 4 & pg 55-56)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
+
+### Schedule:
+  * HW 1 Due - Feb 17 
+  * HW 2 Due - Feb 24 
+  * Lab 3 Due - March 3 
+  * Lab 4 Due - March 10 
+  * Lab 5 Due - March 17 
+  * Lab 6 Due - March 24
+  * Midterm - March 25 - ILC-S140 - 7-9PM
+  * Lab 7 Due - March 31
 
 
 ### Supporting Materials:
