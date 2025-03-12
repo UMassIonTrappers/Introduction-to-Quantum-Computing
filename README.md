@@ -34,7 +34,6 @@ Rotating Wave Approximation animation from Lab 4:
 <img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/RWA_with_drive_phase_X_vs_Y.gif?raw=true" width="500">
 
 
-
 ## Lecture Notes:
 * [Quantum-Computing-ECE-550.pdf](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 
@@ -61,6 +60,8 @@ Rotating Wave Approximation animation from Lab 4:
 1. [Lecture 15 (Mar 5) - Composite Pulse Sequences and Ramsey.mp4](https://echo360.org/media/4116e1ad-cc11-47da-b9fe-dafd98a2156c/public)
 1. [Lecture 16 (Mar 7) - Ramsey and intro to 2Q.mp4](https://echo360.org/media/b41cc01e-44d3-4b70-a49a-d30066ccc803/public)
 1. [Lecture 17 (Mar 10) - Two Qubit Gates.mp4](https://echo360.org/media/688eedcd-f871-4350-b377-01242d3cf33c/public) 
+1. [Lecture 18 (Mar 12) - Verifying Entanglement - odd even basis.mp4](https://echo360.org/media/1a6652a8-ca38-493d-ab52-4d220d7332df/public) 
+
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
@@ -72,10 +73,10 @@ Rotating Wave Approximation animation from Lab 4:
 1. [Lecture 7 - Stern Gerlach and projection/measurement in X,Y Basis states.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW07%20-%20Lecture%2007%20-%20Stern%20Gerlach.pdf)
 1. [Lecture 8 - Projection review and the Schrodinger Equation (pg 36-46)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
 1. [Lecture 9 - Time Dependent Schrodinger Equation (pg 41-46)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
-1. [Lecture 10 - Rabi Oscillations and Infinite Square Well (pg 45-48)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
-1. [Lecture 11 - Rotating Wave Approximation part 1 (pg 49-54)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
-1. [Lecture 12 - Rotating Wave Approximation part 2 (pg 49-54)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
-1. [Lecture 13 - Rotating Wave Approximation part 3 (Lab 4 & pg 55-56)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
+1. [Lecture 10 - Rabi Oscillations and Infinite Square Well (also Lab 3 and notes pg 45-48)](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
+1. [Lecture 11-13 - Rotating Wave Approximation (also Lab 4 and notes pg 49-56](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW09%20-%20Lab%204%20-%20Rotating%20Wave%20Approximation.pdf)
+1. [Lecture 14-16 - Noise and Composite Pulse Sequences (Lab 5)](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW10%20-%20Lab%205%20-%20Noise%20and%20Composite%20Pulse%20Sequences.pdf)
+1. [Lecture 17-18 - Noise and Composite Pulse Sequences (Lab 6)](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW11%20-%20Lab%206%20-%20two%20qubit%20gates.pdf)
 
 ### Schedule:
   * HW 1 Due - Feb 17 
