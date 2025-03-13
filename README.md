@@ -29,9 +29,10 @@ In the second half of the course we will program simulations of quantum algorith
 
 Rotating Wave Approximation animation from Lab 4:
 
-<img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/EXACT_resonance_rotating.gif?raw=true" width="200">
-<img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/Rabi_oscillation_2D_vs_time_detuning_w_bloch.gif?raw=true" width="300">
-<img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/RWA_with_drive_phase_X_vs_Y.gif?raw=true" width="500">
+<img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/EXACT_resonance_rotating.gif?raw=true" height="250"> <img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/Rabi_oscillation_2D_vs_time_detuning_w_bloch.gif?raw=true" height="250">
+
+<img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/RWA_with_drive_phase_X_vs_Y.gif?raw=true" height="200"> <img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/OddEvenParityOscillationsDensityMatrix.gif?raw=true" height="200">
+
 
 
 ## Lecture Notes:
