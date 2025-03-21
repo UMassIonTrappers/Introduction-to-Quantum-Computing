@@ -80,14 +80,22 @@ Rotating Wave Approximation animation from Lab 4:
 1. [Lecture 17-18 - Noise and Composite Pulse Sequences (Lab 6)](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW11%20-%20Lab%206%20-%20two%20qubit%20gates.pdf)
 
 ### Schedule:
-  * HW 1 Due - Feb 17 
-  * HW 2 Due - Feb 24 
-  * Lab 3 Due - March 3 
-  * Lab 4 Due - March 10 
-  * Lab 5 Due - March 17 
-  * Lab 6 Due - March 24
-  * Midterm - March 25 - ILC-S140 - 7-9PM
-  * Lab 7 Due - March 31
+
+| Date  | - |
+| ------------- | ------------- |
+| 2/17   | HW 1 Due |
+| 2/24   | HW 2 Due  |
+| 3/3  | Lab 3 Due  |
+| 3/10 | Lab 4 Due |  
+| 3/17 |Lab 5 Due |
+| 3/24  |Lab 6 Due|
+| 3/25  |Midterm - ILC-S140 - 7-9PM |
+| 3/27 | (midterm make-up)  Marston 220 7-9PM|
+| 3/26  |650 Projects - 1st draft of code |
+| 3/31  |Lab 7 Due |
+| 4/2  |650 Projects code due |
+| 4/7  |Lab 8 Due|
+
 
 
 ### Supporting Materials:
