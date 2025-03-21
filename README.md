@@ -88,12 +88,11 @@ Rotating Wave Approximation animation from Lab 4:
 | 3/3  | Lab 3 Due  |
 | 3/10 | Lab 4 Due |  
 | 3/17 |Lab 5 Due |
+| 3/21  |650 Projects - 1st draft of code |
 | 3/24  |Lab 6 Due|
 | 3/25  |Midterm - ILC-S140 - 7-9PM |
 | 3/27 | (midterm make-up)  Marston 220 7-9PM|
-| 3/26  |650 Projects - 1st draft of code |
 | 3/31  |Lab 7 Due |
-| 4/2  |650 Projects code due |
 | 4/7  |Lab 8 Due|
 
 
