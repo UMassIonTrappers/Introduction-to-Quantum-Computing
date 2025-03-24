@@ -62,7 +62,7 @@ Rotating Wave Approximation animation from Lab 4:
 1. [Lecture 16 (Mar 7) - Ramsey and intro to 2Q.mp4](https://echo360.org/media/b41cc01e-44d3-4b70-a49a-d30066ccc803/public)
 1. [Lecture 17 (Mar 10) - Two Qubit Gates.mp4](https://echo360.org/media/688eedcd-f871-4350-b377-01242d3cf33c/public) 
 1. [Lecture 18 (Mar 12) - Verifying Entanglement - odd even basis.mp4](https://echo360.org/media/1a6652a8-ca38-493d-ab52-4d220d7332df/public) 
-
+1. [Lecture 19 (Mar 24) - Midterm exam review.mp4](https://echo360.org/media/93c15d75-8328-4bec-9981-f476882feb54/public) 
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
