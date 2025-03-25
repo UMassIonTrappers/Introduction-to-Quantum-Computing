@@ -29,9 +29,10 @@ In the second half of the course we will program simulations of quantum algorith
 
 Rotating Wave Approximation animation from Lab 4:
 
-<img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/EXACT_resonance_rotating.gif?raw=true" width="200">
-<img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/Rabi_oscillation_2D_vs_time_detuning_w_bloch.gif?raw=true" width="300">
-<img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/RWA_with_drive_phase_X_vs_Y.gif?raw=true" width="500">
+<img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/EXACT_resonance_rotating.gif?raw=true" height="250"> <img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/Rabi_oscillation_2D_vs_time_detuning_w_bloch.gif?raw=true" height="250">
+
+<img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/RWA_with_drive_phase_X_vs_Y.gif?raw=true" height="200"> <img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/OddEvenParityOscillationsDensityMatrix.gif?raw=true" height="200">
+
 
 
 ## Lecture Notes:
@@ -61,7 +62,7 @@ Rotating Wave Approximation animation from Lab 4:
 1. [Lecture 16 (Mar 7) - Ramsey and intro to 2Q.mp4](https://echo360.org/media/b41cc01e-44d3-4b70-a49a-d30066ccc803/public)
 1. [Lecture 17 (Mar 10) - Two Qubit Gates.mp4](https://echo360.org/media/688eedcd-f871-4350-b377-01242d3cf33c/public) 
 1. [Lecture 18 (Mar 12) - Verifying Entanglement - odd even basis.mp4](https://echo360.org/media/1a6652a8-ca38-493d-ab52-4d220d7332df/public) 
-
+1. [Lecture 19 (Mar 24) - Midterm exam review.mp4](https://echo360.org/media/93c15d75-8328-4bec-9981-f476882feb54/public) 
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
@@ -79,14 +80,21 @@ Rotating Wave Approximation animation from Lab 4:
 1. [Lecture 17-18 - Noise and Composite Pulse Sequences (Lab 6)](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW11%20-%20Lab%206%20-%20two%20qubit%20gates.pdf)
 
 ### Schedule:
-  * HW 1 Due - Feb 17 
-  * HW 2 Due - Feb 24 
-  * Lab 3 Due - March 3 
-  * Lab 4 Due - March 10 
-  * Lab 5 Due - March 17 
-  * Lab 6 Due - March 24
-  * Midterm - March 25 - ILC-S140 - 7-9PM
-  * Lab 7 Due - March 31
+
+| Date  | - |
+| ------------- | ------------- |
+| 2/17   | HW 1 Due |
+| 2/24   | HW 2 Due  |
+| 3/3  | Lab 3 Due  |
+| 3/10 | Lab 4 Due |  
+| 3/17 |Lab 5 Due |
+| 3/21  |650 Projects - 1st draft of code |
+| 3/24  |Lab 6 Due|
+| 3/25  |Midterm - ILC-S140 - 7-9PM |
+| 3/27 | (midterm make-up)  Marston 220 7-9PM|
+| 3/31  |Lab 7 Due |
+| 4/7  |Lab 8 Due|
+
 
 
 ### Supporting Materials:
