@@ -65,6 +65,7 @@ Rotating Wave Approximation animation from Lab 4:
 1. [Lecture 17 (Mar 10) - Two Qubit Gates.mp4](https://echo360.org/media/688eedcd-f871-4350-b377-01242d3cf33c/public) 
 1. [Lecture 18 (Mar 12) - Verifying Entanglement - odd even basis.mp4](https://echo360.org/media/1a6652a8-ca38-493d-ab52-4d220d7332df/public) 
 1. [Lecture 19 (Mar 24) - Midterm exam review.mp4](https://echo360.org/media/93c15d75-8328-4bec-9981-f476882feb54/public) 
+1. [Lecture 20 (Mar 26) - Quantum Adder.mp4](https://echo360.org/media/dcbf89b4-e51b-44e3-9d78-54b2da3dd32a/public) 
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
@@ -80,6 +81,7 @@ Rotating Wave Approximation animation from Lab 4:
 1. [Lecture 11-13 - Rotating Wave Approximation (also Lab 4 and notes pg 49-56](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW09%20-%20Lab%204%20-%20Rotating%20Wave%20Approximation.pdf)
 1. [Lecture 14-16 - Noise and Composite Pulse Sequences (Lab 5)](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW10%20-%20Lab%205%20-%20Noise%20and%20Composite%20Pulse%20Sequences.pdf)
 1. [Lecture 17-18 - Noise and Composite Pulse Sequences (Lab 6)](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW11%20-%20Lab%206%20-%20two%20qubit%20gates.pdf)
+1. [Lecture 20 - Quantum Adder (Lab 7)](https://www.dropbox.com/scl/fi/v2e534i2bmq0l9obmzwhb/WW13-Lab-7-Quantum-Adder-Toffoli-gate.pdf?rlkey=2jcdlqi2aptdr8wrd4qcy8i3y&dl=0)
 
 ### Schedule:
 
