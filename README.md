@@ -26,6 +26,8 @@ In the second half of the course we will program simulations of quantum algorith
 1. [Lab_05 - Part B -_Ramsey.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_05b_Ramsey.ipynb)
 1. [Lab_05_Noise_and_composite_pulses.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_05_Noise_and_composite_pulses.ipynb)
 1. [Lab_06_- Two Qubit Gates and Entanglement.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_06_2_Qubit_gates.ipynb)
+1. [Lab_07_- Lab_07_Quantum_circuits_quantum_adder.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_07_Quantum_circuits_quantum_adder.ipynb)
+
 
 Rotating Wave Approximation animation from Lab 4:
 
