@@ -66,6 +66,8 @@ Rotating Wave Approximation animation from Lab 4:
 1. [Lecture 18 (Mar 12) - Verifying Entanglement - odd even basis.mp4](https://echo360.org/media/1a6652a8-ca38-493d-ab52-4d220d7332df/public) 
 1. [Lecture 19 (Mar 24) - Midterm exam review.mp4](https://echo360.org/media/93c15d75-8328-4bec-9981-f476882feb54/public) 
 1. [Lecture 20 (Mar 26) - Quantum Adder.mp4](https://echo360.org/media/dcbf89b4-e51b-44e3-9d78-54b2da3dd32a/public) 
+1. [Lecture 21 (Mar 28) - Transpiling quantum circuits for IBM Cloud QPUs.mp4](https://echo360.org/media/c27ecad8-03be-47be-a512-3e1fd5b2fef1/public) 
+
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
