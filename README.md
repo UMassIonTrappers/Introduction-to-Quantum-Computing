@@ -25,9 +25,10 @@ In the second half of the course we will program simulations of quantum algorith
 1. [Lab_05 - Part A -_X_vs_Y_pulses.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_05a_X_vs_Y_pulses.ipynb)
 1. [Lab_05 - Part B -_Ramsey.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_05b_Ramsey.ipynb)
 1. [Lab_05_Noise_and_composite_pulses.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_05_Noise_and_composite_pulses.ipynb)
-1. [Lab_06_- Two Qubit Gates and Entanglement.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_06_2_Qubit_gates.ipynb)
-1. [Lab_07_- Lab_07_Quantum_circuits_quantum_adder.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_07_Quantum_circuits_quantum_adder.ipynb)
-1. [Lab_08_- Lab_08_Quantum_Benchmarks - T1,T2,GHz parity oscillations and Quantum Volume.ipynb](https://colab.research.google.com/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/labs/Lab_08_QPU_Benchmarks.ipynb)
+1. [Lab_06_Two Qubit Gates and Entanglement.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_06_2_Qubit_gates.ipynb)
+1. [Lab_07_Quantum_circuits_quantum_adder.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_07_Quantum_circuits_quantum_adder.ipynb)
+1. [Lab_08_Quantum_Benchmarks - T1,T2,GHz parity oscillations and Quantum Volume.ipynb](https://colab.research.google.com/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/labs/Lab_08_QPU_Benchmarks.ipynb)
+1. [Lab_09_Deutsch_Jozsa_and_Bernstein_Vazirani.ipynb](https://colab.research.google.com/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/labs/Lab_09_Deutsch_Jozsa_and_Bernstein_Vazirani.ipynb)
 
 
 Rotating Wave Approximation animation from Lab 4:
@@ -70,6 +71,8 @@ Rotating Wave Approximation animation from Lab 4:
 1. [Lecture 21 (Mar 28) - Transpiling quantum circuits for IBM Cloud QPUs.mp4](https://echo360.org/media/c27ecad8-03be-47be-a512-3e1fd5b2fef1/public) 
 1. [Lecture 22 (Mar 31) - Benchmarking QPUs - Measuring T1, T2 and GHZ fidelity.mp4](https://echo360.org/media/f2628238-b5bd-4172-ac3e-a545bac2c26c/public) 
 1. [Lecture 23 (Apr 2) - Benchmarking QPUs - Randomized Gate Benchmarking and Quantum Volume.mp4](https://echo360.org/media/b599486d-489d-4782-b3c1-b2beec9d9a3c/public)
+1. [Lecture 24 (Apr 4) - Phase Kickback (Deutsch Jozsa and Bernstein Vazirani).mp4](https://echo360.org/media/77d83e20-07c8-4887-8e31-b0bd1b4b7a55/public)
+
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
