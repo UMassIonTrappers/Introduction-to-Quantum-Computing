@@ -28,7 +28,7 @@ In the second half of the course we will program simulations of quantum algorith
 1. [Lab_06_Two Qubit Gates and Entanglement.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_06_2_Qubit_gates.ipynb)
 1. [Lab_07_Quantum_circuits_quantum_adder.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_07_Quantum_circuits_quantum_adder.ipynb)
 1. [Lab_08_Quantum_Benchmarks - T1,T2,GHz parity oscillations and Quantum Volume.ipynb](https://colab.research.google.com/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/labs/Lab_08_QPU_Benchmarks.ipynb)
-1. [Lab_09_Deutsch_Jozsa_and_Bernstein_Vazirani.ipynb](https://colab.research.google.com/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/labs/Lab_09_Deutsch_Jozsa_and_Bernstein_Vazirani.ipynb)
+1. [Lab_08b_Deutsch_Jozsa_and_Bernstein_Vazirani.ipynb](https://colab.research.google.com/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/labs/Lab_08b_Deutsch_Jozsa_and_Bernstein_Vazirani.ipynb)
 
 
 Rotating Wave Approximation animation from Lab 4:
