@@ -29,14 +29,13 @@ In the second half of the course we will program simulations of quantum algorith
 1. [Lab_07_Quantum_circuits_quantum_adder.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_07_Quantum_circuits_quantum_adder.ipynb)
 1. [Lab_08_Quantum_Benchmarks - T1,T2,GHz parity oscillations and Quantum Volume.ipynb](https://colab.research.google.com/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/labs/Lab_08_QPU_Benchmarks.ipynb)
 1. [Lab_08b_Deutsch_Jozsa_and_Bernstein_Vazirani.ipynb](https://colab.research.google.com/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/labs/Lab_08b_Deutsch_Jozsa_and_Bernstein_Vazirani.ipynb)
-
+1. [Lab_09_QEC_Quantum_Error_Correction.ipynb](https://colab.research.google.com/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/labs/Lab_09_QEC_Quantum_Error_Correction.ipynb)
 
 Rotating Wave Approximation animation from Lab 4:
 
 <img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/EXACT_resonance_rotating.gif?raw=true" height="250"> <img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/Rabi_oscillation_2D_vs_time_detuning_w_bloch.gif?raw=true" height="250">
 
 <img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/RWA_with_drive_phase_X_vs_Y.gif?raw=true" height="200"> <img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/OddEvenParityOscillationsDensityMatrix.gif?raw=true" height="200">
-
 
 
 ## Lecture Notes:
@@ -72,7 +71,8 @@ Rotating Wave Approximation animation from Lab 4:
 1. [Lecture 22 (Mar 31) - Benchmarking QPUs - Measuring T1, T2 and GHZ fidelity.mp4](https://echo360.org/media/f2628238-b5bd-4172-ac3e-a545bac2c26c/public) 
 1. [Lecture 23 (Apr 2) - Benchmarking QPUs - Randomized Gate Benchmarking and Quantum Volume.mp4](https://echo360.org/media/b599486d-489d-4782-b3c1-b2beec9d9a3c/public)
 1. [Lecture 24 (Apr 4) - Phase Kickback (Deutsch Jozsa and Bernstein Vazirani).mp4](https://echo360.org/media/77d83e20-07c8-4887-8e31-b0bd1b4b7a55/public)
-
+1. [Lecture 25 (Apr 7) - Quantum Error Correction - Repetition Code encoding (bit and phase) and Syndromes.mp4](https://echo360.org/media/a390d351-40af-4c92-85b6-938311029378/public)
+   
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
@@ -90,6 +90,7 @@ Rotating Wave Approximation animation from Lab 4:
 1. [Lecture 17-18 - Noise and Composite Pulse Sequences (Lab 6)](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW11%20-%20Lab%206%20-%20two%20qubit%20gates.pdf)
 1. [Lecture 20 - Quantum Adder (Lab 7)](https://www.dropbox.com/scl/fi/v2e534i2bmq0l9obmzwhb/WW13-Lab-7-Quantum-Adder-Toffoli-gate.pdf?rlkey=2jcdlqi2aptdr8wrd4qcy8i3y&dl=0)
 
+
 ### Schedule:
 
 | Date  | - |
@@ -105,6 +106,10 @@ Rotating Wave Approximation animation from Lab 4:
 | 3/27 | (midterm make-up)  Marston 220 7-9PM|
 | 3/31  |Lab 7 Due |
 | 4/7  |Lab 8 Due|
+| 4/12  |Yale Hackathon!|
+| 4/14  |Lab 9 Due|
+| 4/21  |Lab 10 Due|
+| 4/28  |Lab 11 Due|
 
 
 
