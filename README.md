@@ -76,7 +76,7 @@ Quantum Error Correction (Lab 9):
 1. [Lecture 23 (Apr 2) - Benchmarking QPUs - Randomized Gate Benchmarking and Quantum Volume.mp4](https://echo360.org/media/b599486d-489d-4782-b3c1-b2beec9d9a3c/public)
 1. [Lecture 24 (Apr 4) - Phase Kickback (Deutsch Jozsa and Bernstein Vazirani).mp4](https://echo360.org/media/77d83e20-07c8-4887-8e31-b0bd1b4b7a55/public)
 1. [Lecture 25 (Apr 7) - Quantum Error Correction - Repetition Code encoding (bit and phase) and Syndromes.mp4](https://echo360.org/media/a390d351-40af-4c92-85b6-938311029378/public)
-   
+1. [Lecture 26 (Apr 9) - QEC - 9 qubit Shor Code Simulation and Logical Error rates.mp4](https://echo360.org/media/c67da761-61e6-486f-b88d-d71ed3aac97c/public)
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
@@ -93,6 +93,8 @@ Quantum Error Correction (Lab 9):
 1. [Lecture 14-16 - Noise and Composite Pulse Sequences (Lab 5)](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW10%20-%20Lab%205%20-%20Noise%20and%20Composite%20Pulse%20Sequences.pdf)
 1. [Lecture 17-18 - Noise and Composite Pulse Sequences (Lab 6)](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW11%20-%20Lab%206%20-%20two%20qubit%20gates.pdf)
 1. [Lecture 20 - Quantum Adder (Lab 7)](https://www.dropbox.com/scl/fi/v2e534i2bmq0l9obmzwhb/WW13-Lab-7-Quantum-Adder-Toffoli-gate.pdf?rlkey=2jcdlqi2aptdr8wrd4qcy8i3y&dl=0)
+1. Lectures 21-24 - See Lab 8
+1. Lectures 25-26 - See Lab 9
 
 
 ### Schedule:
