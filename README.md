@@ -37,6 +37,10 @@ Rotating Wave Approximation animation from Lab 4:
 
 <img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/RWA_with_drive_phase_X_vs_Y.gif?raw=true" height="200"> <img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/OddEvenParityOscillationsDensityMatrix.gif?raw=true" height="200">
 
+Quantum Error Correction (Lab 9):
+
+<img src="https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/animations/ShorCodeError.png?raw=true" height="200">
+
 
 ## Lecture Notes:
 * [Quantum-Computing-ECE-550.pdf](https://www.dropbox.com/scl/fi/uc33ums197igwtgcoo27s/Quantum-Computing-ECE-550.pdf?rlkey=ofzlqgl3oyb3wf6jr42blohxu&dl=0)
