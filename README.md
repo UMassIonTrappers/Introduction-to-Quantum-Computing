@@ -117,13 +117,16 @@ Quantum Error Correction (Lab 9):
 | 3/21  |650 Projects - 1st draft of code |
 | 3/24  |Lab 6 Due|
 | 3/25  |Midterm - ILC-S140 - 7-9PM |
-| 3/27 | (midterm make-up)  Marston 220 7-9PM|
 | 3/31  |Lab 7 Due |
 | 4/7  |Lab 8 Due|
 | 4/12  |Yale Hackathon!|
 | 4/14  |Lab 9 Due|
-| 4/21  |Lab 10 Due|
+| 4/14  |650 presentations|
+| 4/23  |Lab 10 Due|
 | 4/28  |Lab 11 Due|
+| 5/5  |Lab 12 Due|
+| 5/7  |650 presentations|
+| 5/13  |Final Exam - ILC S140 - 1-3PM|
 
 
 
