@@ -80,6 +80,7 @@ Quantum Error Correction (Lab 9):
 1. [Lecture 24 (Apr 4) - Phase Kickback (Deutsch Jozsa and Bernstein Vazirani).mp4](https://echo360.org/media/77d83e20-07c8-4887-8e31-b0bd1b4b7a55/public)
 1. [Lecture 25 (Apr 7) - Quantum Error Correction - Repetition Code encoding (bit and phase) and Syndromes.mp4](https://echo360.org/media/a390d351-40af-4c92-85b6-938311029378/public)
 1. [Lecture 26 (Apr 9) - QEC - 9 qubit Shor Code Simulation and Logical Error rates.mp4](https://echo360.org/media/c67da761-61e6-486f-b88d-d71ed3aac97c/public)
+1. [Lecture 28 (Apr 14) - Group Presentations Part 1.mp4](https://echo360.org/media/554a64ec-8854-4b09-b2ab-a148aaebd4ab/public)
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
