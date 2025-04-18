@@ -81,6 +81,9 @@ Quantum Error Correction (Lab 9):
 1. [Lecture 25 (Apr 7) - Quantum Error Correction - Repetition Code encoding (bit and phase) and Syndromes.mp4](https://echo360.org/media/a390d351-40af-4c92-85b6-938311029378/public)
 1. [Lecture 26 (Apr 9) - QEC - 9 qubit Shor Code Simulation and Logical Error rates.mp4](https://echo360.org/media/c67da761-61e6-486f-b88d-d71ed3aac97c/public)
 1. [Lecture 28 (Apr 14) - Group Presentations Part 1.mp4](https://echo360.org/media/554a64ec-8854-4b09-b2ab-a148aaebd4ab/public)
+1. [Lecture 29 (Apr 16) - Group Presentations Part 2.mp4](https://echo360.org/media/0b15c99b-b2e5-4491-b211-7f9e05eb8aca/public)
+1. [Lecture 30 (Apr 18) - Grover's Search Amplitude amplification.mp4](https://echo360.org/media/9bc6be77-0d85-4747-b5e7-4594d8772717/public)
+
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
@@ -99,6 +102,7 @@ Quantum Error Correction (Lab 9):
 1. [Lecture 20 - Quantum Adder (Lab 7)](https://www.dropbox.com/scl/fi/v2e534i2bmq0l9obmzwhb/WW13-Lab-7-Quantum-Adder-Toffoli-gate.pdf?rlkey=2jcdlqi2aptdr8wrd4qcy8i3y&dl=0)
 1. Lectures 21-24 - See Lab 8
 1. Lectures 25-26 - See Lab 9
+1. [Lecture 30 - Grover Search (Lab 10)](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW16%20-%20Lab%2010%20-%20Grover%20Search.pdf)
 
 
 ### Schedule:
