@@ -32,7 +32,7 @@ In the second half of the course we will program simulations of quantum algorith
 1. [Lab_09_QEC_Quantum_Error_Correction.ipynb](https://colab.research.google.com/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/labs/Lab_09_QEC_Quantum_Error_Correction.ipynb)
 1. [Lab_10_Grover Search.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_10_Grover_Search.ipynb)
 1. [Lab_11_QFT_QPE_and_RSA_intro.ipynb](https://colab.research.google.com/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/labs/Lab_11_QFT_QPE_and_RSA_intro.ipynb)
-
+1. [Lab_12_Shor's Algorithm.ipynb](https://colab.research.google.com/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/labs/Lab_12_Shor.ipynb)
 
 Rotating Wave Approximation animation from Lab 4:
 
@@ -83,7 +83,7 @@ Quantum Error Correction (Lab 9):
 1. [Lecture 28 (Apr 14) - Group Presentations Part 1.mp4](https://echo360.org/media/554a64ec-8854-4b09-b2ab-a148aaebd4ab/public)
 1. [Lecture 29 (Apr 16) - Group Presentations Part 2.mp4](https://echo360.org/media/0b15c99b-b2e5-4491-b211-7f9e05eb8aca/public)
 1. [Lecture 30 (Apr 18) - Grover's Search Amplitude amplification.mp4](https://echo360.org/media/9bc6be77-0d85-4747-b5e7-4594d8772717/public)
-
+1. [Lecture 31 (Apr 25) - RSA and intro to Shor's Algorithm.mp4](https://echo360.org/media/f8025954-1a39-4b8d-9a60-9e805b5919ae/public)
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
