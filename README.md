@@ -31,7 +31,7 @@ In the second half of the course we will program simulations of quantum algorith
 1. [Lab_08b_Deutsch_Jozsa_and_Bernstein_Vazirani.ipynb](https://colab.research.google.com/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/labs/Lab_08b_Deutsch_Jozsa_and_Bernstein_Vazirani.ipynb)
 1. [Lab_09_QEC_Quantum_Error_Correction.ipynb](https://colab.research.google.com/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/labs/Lab_09_QEC_Quantum_Error_Correction.ipynb)
 1. [Lab_10_Grover Search.ipynb](https://colab.research.google.com/github/UMassIonTrappers/quantum-computing-labs/blob/main/labs/Lab_10_Grover_Search.ipynb)
-
+1. [Lab_11_QFT_QPE_and_RSA_intro.ipynb](https://colab.research.google.com/github/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/labs/Lab_11_QFT_QPE_and_RSA_intro.ipynb)
 
 
 Rotating Wave Approximation animation from Lab 4:
@@ -103,6 +103,7 @@ Quantum Error Correction (Lab 9):
 1. Lectures 21-24 - See Lab 8
 1. Lectures 25-26 - See Lab 9
 1. [Lecture 30 - Grover Search (Lab 10)](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW16%20-%20Lab%2010%20-%20Grover%20Search.pdf)
+1. [Lecture 31 - QFT anf Quantum phase estimation plus RSA intro (Lab 11)](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW17%20-%20Lab%2011%20-%20QPE%20QFT.pdf)
 
 
 ### Schedule:
