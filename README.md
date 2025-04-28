@@ -8,9 +8,10 @@ rniffenegger@umass.edu
 
 Introduction to Quantum Computing begins with a foundation in quantum optics, studying the Mach-Zehnder interferometer. We then explore atomic physics and quantum mechanics in the context of various qubit technologies, such as trapped ions.
 
-Throughout the semester, students engage in weekly Python labs based on QuTiP where they program simulations of single-qubit operations, including Rabi oscillations and Ramsey pulse sequences, as well as generating two-qubit from first principles with Hamiltonians for generating entanglement (Bell states). These exercises enable construction of quantum circuits based on fundamental quantum mechanical interactions via Hamiltonians.
+Throughout the semester, students engage in weekly Python labs based on QuTiP where they program simulations of single-qubit operations, including Rabi oscillations and Ramsey pulse sequences, as well as two-qubit gates from first principles for generating entanglement (Bell states).
+These exercises enable construction of quantum circuits based on fundamental quantum mechanical interactions via Hamiltonians.
 
-In the second half of the semester, these labs culminate in a survey and simulation of multiple quantum algorithms, such as Grover’s and Shor’s algorithms, as well as rudimentary error correction, using quantum computing libraries like Qiskit. Students also gain hands-on experience by executing their programs on real quantum computers.
+In the second half of the semester, these labs culminate in a survey and simulation of multiple quantum algorithms, such as Grover’s and Shor’s algorithms, as well as error correction, using quantum computing libraries like Qiskit. Students also gain hands-on experience by executing their programs on real quantum computers.
 
 #### Discord: https://discord.gg/zwXMNDdDN5 
 
