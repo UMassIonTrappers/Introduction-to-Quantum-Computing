@@ -84,6 +84,7 @@ Quantum Error Correction (Lab 9):
 1. [Lecture 29 (Apr 16) - Group Presentations Part 2.mp4](https://echo360.org/media/0b15c99b-b2e5-4491-b211-7f9e05eb8aca/public)
 1. [Lecture 30 (Apr 18) - Grover's Search Amplitude amplification.mp4](https://echo360.org/media/9bc6be77-0d85-4747-b5e7-4594d8772717/public)
 1. [Lecture 31 (Apr 25) - RSA and intro to Shor's Algorithm.mp4](https://echo360.org/media/f8025954-1a39-4b8d-9a60-9e805b5919ae/public)
+1. [Lecture 32 (Apr 28) - Shor's Algorithm and compiling improvements.mp4](https://echo360.org/media/db40009b-e7fc-4638-97e6-440e2f4b79e2/public)
 
 ## Lecture Slides: 
 1. [Lecture 1 - Introductions.pdf](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW05%20-%20Lecture%2001%20-%20Introductions.pdf)
@@ -103,7 +104,8 @@ Quantum Error Correction (Lab 9):
 1. Lectures 21-24 - See Lab 8
 1. Lectures 25-26 - See Lab 9
 1. [Lecture 30 - Grover Search (Lab 10)](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW16%20-%20Lab%2010%20-%20Grover%20Search.pdf)
-1. [Lecture 31 - QFT anf Quantum phase estimation plus RSA intro (Lab 11)](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW17%20-%20Lab%2011%20-%20QPE%20QFT.pdf)
+1. [Lecture 31 - QFT and Quantum phase estimation plus RSA intro (Lab 11)](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW17%20-%20Lab%2011%20-%20QPE%20QFT.pdf)
+1. [Lecture 32 - Shor's Algorithm (Lab 12)](https://github.com/UMassIonTrappers/Introduction-to-Quantum-Computing/blob/main/lectures/WW18%20-%20Lab%2012%20-%20Shor's%20Algorithm.pdf)
 
 
 ### Schedule:
@@ -126,7 +128,8 @@ Quantum Error Correction (Lab 9):
 | 4/23  |Lab 10 Due|
 | 4/28  |Lab 11 Due|
 | 5/5  |Lab 12 Due|
-| 5/7  |650 presentations|
+| 5/7  |650 presentations day 1|
+| 5/9  |650 presentations day 2|
 | 5/13  |Final Exam - ILC S140 - 1-3PM|
 
 
